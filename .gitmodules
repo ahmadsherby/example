@@ -2,3 +2,8 @@
 	path = ahmadsherby/testin-aljuan
 	url = git@github.com:ahmadsherby/testin-aljuan.git
 	branch = live
+
+[submodule "ahmadsherby/example_main"]
+	path = ahmadsherby/example_main
+	url = git@github.com:ahmadsherby/example_main.git
+	branch = main
