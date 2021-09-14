@@ -1,0 +1,4 @@
+[submodule "ahmadsherby/testin-aljuan"]
+	path = ahmadsherby/testin-aljuan
+	url = git@github.com:ahmadsherby/testin-aljuan.git
+	branch = live
